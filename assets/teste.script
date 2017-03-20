@@ -1,0 +1,21 @@
+mainA()
+{
+  escopoA()
+  {
+    escopoB()
+    {
+      escopoC()
+    }
+  }
+}
+
+mainB()
+{
+  escopoA()
+  {
+    escopoB()
+    {
+      escopoC()
+    }
+  }
+}
